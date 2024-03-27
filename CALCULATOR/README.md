@@ -21,23 +21,23 @@ This is a simple calculator program written in Python. It allows users to perfor
 
 3. **Run the calculator program:**
 
-```python calculator.py```
+   ```python calculator.py```
 
 ## Usage Example
 
-# Perform addition
+### Perform addition
 result = add(5, 3)
 print("5 + 3 =", result)
 
-# Perform subtraction
+### Perform subtraction
 result = subtract(10, 4)
 print("10 - 4 =", result)
 
-# Perform multiplication
+### Perform multiplication
 result = multiply(6, 2)
 print("6 * 2 =", result)
 
-# Perform division
+### Perform division
 result = divide(8, 2)
 print("8 / 2 =", result)
 
