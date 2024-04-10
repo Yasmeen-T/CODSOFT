@@ -11,13 +11,13 @@ This is a simple Todo List application built in Python using the Tkinter library
 ## Screenshots
 
 ### GUI
-    ![GUI](https://github.com/Yasmeen-T/CODSOFT/blob/main/To_Do_List/Snapshots/GUI.png)
+![GUI](https://github.com/Yasmeen-T/CODSOFT/blob/main/To_Do_List/Snapshots/GUI.png)
 
 ### ADD TASK
-    ![ADD TASK](https://github.com/Yasmeen-T/CODSOFT/blob/main/To_Do_List/Snapshots/ADD%20TASK.png)
+![ADD TASK](https://github.com/Yasmeen-T/CODSOFT/blob/main/To_Do_List/Snapshots/ADD%20TASK.png)
 
 ### REMOVE TASK
-    ![REMOVE TASK](https://github.com/Yasmeen-T/CODSOFT/blob/main/To_Do_List/Snapshots/REMOVE%20TASK.png)
+![REMOVE TASK](https://github.com/Yasmeen-T/CODSOFT/blob/main/To_Do_List/Snapshots/REMOVE%20TASK.png)
 
 ## Prerequisites
 
