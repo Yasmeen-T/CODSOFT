@@ -10,13 +10,13 @@ This is a simple Todo List application built in Python using the Tkinter library
 
 ## Screenshots
 
-- **GUI**
+### GUI
     ![GUI](./Snapshots/GUI.png)
 
-- **ADD TASK**
+### ADD TASK
     ![ADD TASK](./Snapshots/ADD%20TASK.png)
 
-- **REMOVE TASK**
+### REMOVE TASK
     ![REMOVE TASK](./Snapshots/REMOVE%20TASK.png)
 
 ## Prerequisites
